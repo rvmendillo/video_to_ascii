@@ -1,10 +1,6 @@
 [build-system]
 requires = [
     "setuptools>=42",
-    "wheel",
-	"opencv-python",
-	"rvmendillo_image_to_ascii",
-	"numpy",
-	"moviepy"
+    "wheel"
 ]
 build-backend = "setuptools.build_meta"
