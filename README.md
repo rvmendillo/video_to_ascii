@@ -32,8 +32,20 @@ app.save_ascii_animation('ascii_animation.mp4', target_width=200, inverted=False
 app.save_ascii_animation('ascii_animation_without_audio.mp4', with_audio=False, target_width=200, inverted=False)
 ```
 
+## Examples
+
+[Test Video][test-video]
+
+[Inverted ASCII Animation][inverted-ascii-animation]
+
+[ASCII Animation][ascii-animation]
+
 ## License
+
 [MIT][mit-license]
 
 [pip-url]: https://pip.pypa.io/en/stable/
 [mit-license]: https://choosealicense.com/licenses/mit/
+[test-video]: https://youtu.be/4iQJVxaGvmc
+[inverted-ascii-animation]: https://youtu.be/yewbheqHfzU
+[ascii-animation]: https://youtu.be/o1Cs1n8Xim0
