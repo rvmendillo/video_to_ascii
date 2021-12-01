@@ -29,7 +29,8 @@ app.save_ascii_animation('inverted_ascii_animation_without_audio.mp4', with_audi
 app.save_ascii_animation('ascii_animation.mp4', target_width=200, inverted=False)
 
 # Saves ASCII animation for white background without an audio and with a target width of 200 pixels in an MP4 file
-app.save_ascii_animation('ascii_animation_without_audio.mp4', with_audio=False, target_width=200, inverted=False)```
+app.save_ascii_animation('ascii_animation_without_audio.mp4', with_audio=False, target_width=200, inverted=False)
+```
 
 ## License
 [MIT][mit-license]
